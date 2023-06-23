@@ -1,0 +1,20 @@
+-->(Build a Serverless Web Application)
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
+
+-->(Build an Amazon Connect Call Center)
+https://github.com/aws-samples/amazon-lex-connect-workshop
+
+-->(Set Up a CI/CD Pipeline on AWS)
+https://aws.amazon.com/getting-started/hands-on/set-up-ci-cd-pipeline/?ref=gsrchandson
+
+-->(Build a Full-Stack React Application)
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?ref=gsrchandson&id=updated
+
+-->(Bootstrapping an Amazon EC2 Instance Using User-data to Run a Python Web App)
+https://www.buildon.aws/tutorials/using-ec2-userdata-to-bootstrap-python-web-app?ref=dc&id=gsrchandson
+
+-->(Create and Connect to a MySQL Database with Amazon RDS)
+https://aws.amazon.com/getting-started/hands-on/create-mysql-db/?ref=gsrchandson
+
+-->(Using Amazon S3 Object Lambda to Dynamically Watermark Images as They Are Retrieved)
+https://aws.amazon.com/getting-started/hands-on/amazon-s3-object-lambda-to-dynamically-watermark-images/
